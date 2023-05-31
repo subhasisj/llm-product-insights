@@ -4,8 +4,8 @@ Extracting Insights from unstructured data using Large Language Models (LLMs) fo
 
 ## Notebooks
 This repository contains notebooks that showcase how to extract insights from car reviews and financial texts using LLMs, Langchain, and vector stores.
-1.  [Car Review Insights](./car-review-insights/README.md)
-2.  [Company Finance Insights (Work in Progress) 🚧](./company-finance-insights/)
+1.  [Car Review Insights](./notebooks/car-review-insights/README.md)
+2.  [Company Finance Insights (Work in Progress) 🚧](./notebooks/company-finance-insights/)
 
 
 ## Getting started
