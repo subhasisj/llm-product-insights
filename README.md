@@ -22,7 +22,6 @@ pandas
 matplotlib 
 seaborn 
 sentencepiece
-Langchain
 xformers
 datasets
 peft
